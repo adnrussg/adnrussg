@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adnrussg
 - 👀 I’m interested in Full-Stack Development/DevOps/Cybersecurity
-- 🌱 I’m currently learning Docker & Kubernetes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning and mastering Data Structures and Algorithms
+- 💞️ I’m looking to improve myself in Development and DevOps field.
+- 📫 How to reach me ... LinkedIn :)
 
 <!---
 adnrussg/adnrussg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
